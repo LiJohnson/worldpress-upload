@@ -1,4 +1,4 @@
-worldpress-upload
+worldpress-upload setting plugin
 =================
 
 worldpress upload
